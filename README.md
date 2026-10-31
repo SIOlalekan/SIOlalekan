@@ -37,3 +37,17 @@ The portfolio contains practical artefacts covering areas such as:
 The project is designed to demonstrate how smaller organisations can implement proportionate, practical governance without unnecessary complexity.
 
 👉 [Explore the GRC Portfolio](https://github.com/SIOlalekan/grc-portfolio)
+
+## 📚 Research & Professional Interests
+
+My research interests include **digital trust, cybersecurity governance, responsible AI, technology risk and organisational resilience**.
+
+### Selected Publications
+
+- **Digital Trust as a Strategic Enabler of Innovation in Emerging Technology Ecosystems**  
+  [DOI: 10.3923/rjit.2026.31.47](https://doi.org/10.3923/rjit.2026.31.47)
+
+- **Digital Trust in Financial Reporting: A Review of Deepfakes, Synthetic Evidence, and AI-Generated Corporate Communication**  
+  [DOI: 10.47001/JAIET/2026.308008](https://doi.org/10.47001/JAIET/2026.308008)
+
+👉 See more research on my **ORCID profile**.

@@ -8,15 +8,13 @@
 
 I work at the intersection of **Digital Trust, Cybersecurity Governance, Governance, Risk & Compliance (GRC), Responsible AI, Privacy and Technology Policy**.
 
+My focus is on developing practical governance approaches that help organisations manage technology risk, strengthen compliance and build trust without unnecessarily slowing innovation.
+
 ## 🚀 Currently Working On
 
 - Building and refining a practical **GRC Portfolio** for UK SMEs, charities and CICs
 - Developing governance approaches for **Digital Trust, Responsible AI and cybersecurity**
 - Strengthening practical evidence around **risk, compliance, policy and information security governance**
-  
-My focus is on developing practical governance approaches that help organisations manage technology risk, strengthen compliance and build trust without unnecessarily slowing innovation.
-
-## 🛡️ Featured Project
 
 ### GRC Portfolio
 
@@ -50,4 +48,10 @@ My research interests include **digital trust, cybersecurity governance, respons
 - **Digital Trust in Financial Reporting: A Review of Deepfakes, Synthetic Evidence, and AI-Generated Corporate Communication**  
   [DOI: 10.47001/JAIET/2026.308008](https://doi.org/10.47001/JAIET/2026.308008)
 
-👉 See more research on my **ORCID profile**.
+👉 See more research on my [**ORCID profile**](https://orcid.org/0009-0003-6508-0910).
+
+## 🤝 Collaboration
+
+I welcome collaboration, independent review and constructive contributions across **Digital Trust, GRC, Cybersecurity Governance and Responsible AI**.
+
+Contributions to the **GRC Portfolio** are especially welcome through issues, reviews and pull requests.
